@@ -2,7 +2,7 @@ NodeJS app for taking notes via command-line (CLI)
 
 # Prerequisities
 
-To run this app, you must have **node** and **npm** installed on your machine.
+To run this app, you must have both **node** and **npm** installed on your machine.
 
 ## Installing dependencies
 
