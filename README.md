@@ -41,3 +41,9 @@ node app.js remove --title="some title"
 ```
 node app.js list
 ```
+
+## To read note
+
+```
+node app.js read --title="some title"
+```
