@@ -28,7 +28,7 @@ Open your terminal and go to the corresponding directory
 node app.js add --title="some title" --body="some body"
 ```
 
-Upon success, a JSON file will be created, this file will storing all notes.
+Upon success, a JSON file will be created and it will be storing all notes in an array.
 
 ## To remove a note
 
