@@ -47,3 +47,5 @@ node app.js list
 ```
 node app.js read --title="some title"
 ```
+
+> Credits goes to Andrew Mead, my instructor.
